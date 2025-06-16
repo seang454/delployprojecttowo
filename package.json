@@ -24,7 +24,7 @@
     "date-fns": "^4.1.0",
     "flowbite-react": "^0.10.2",
     "formik": "^2.4.6",
-    "framer-motion": "^12.4.7",
+    "framer-motion": "^12.12.2",
     "gapi-script": "^1.2.0",
     "jwt-decode": "^4.0.0",
     "lucide-react": "^0.476.0",
